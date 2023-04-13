@@ -1,10 +1,17 @@
 # angular_project
 
-learning angular coding.
+# 1 Github
 
-install angular....
+# 2 VS code
 
-landing page
+
+install angular....   ----> done
+
+# How to run the code
+
+1. Open CMD
+
+landing page ------> done
 
 login/ logout page
 
