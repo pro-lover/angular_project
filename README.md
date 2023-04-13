@@ -1,2 +1,2 @@
 # angular_project
-learning angular
+learning angular coding
