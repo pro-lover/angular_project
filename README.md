@@ -1,5 +1,5 @@
 # Plan
-we will be following Joson Watmore to build User registration and login registration here blog link
+we will be following Joson Watmore to build User registration and login registration here blog link https://jasonwatmore.com/post/2022/11/29/angular-14-user-registration-and-login-example-tutorial
 # angular 15
 # pages
 /
